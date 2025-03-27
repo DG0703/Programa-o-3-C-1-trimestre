@@ -1,0 +1,28 @@
+:root {
+    --cor-de-fundo: #B08259;
+    --cor-de-fundo2: #F0CC92;
+    --cor-de-fundo-hover: #ddd;
+    --branco: White;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--cor-de-fundo2) }
+.marrom {
+    background-color: var(--cor-de-fundo);
+    outline-color: var(--cor-de-fundo2);
+}
+.botão:hover{
+
+    background-color: var(--cor-de-fundo2);
+    outline-color: var(--cor-de-fundo2);
+}
+.botão2{
+    border: 1px solid var(--cor-de-fundo);
+    border-radius: 10px;
+}
+.botão2:hover{
+    border: 1px solid var(--cor-de-fundo2);
+    border-radius: 10px;
+}
