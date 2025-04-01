@@ -26,3 +26,14 @@ body {
     border: 1px solid var(--cor-de-fundo2);
     border-radius: 10px;
 }
+.imagem{
+    width: 432px;
+    height: 307px;
+}
+.espaçamento{
+    padding: 40px;
+}
+.aside-img{
+    width: 140px;
+    height: 80px;
+}
